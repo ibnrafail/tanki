@@ -1,0 +1,30 @@
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Tanki5\Tanki5\bin\Debug\Tanki5.exe.config
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Tanki5\Tanki5\bin\Debug\Tanki5.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Tanki5\Tanki5\bin\Debug\Tanki5.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Tanki5\Tanki5\obj\Debug\Tanki5.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Tanki5\Tanki5\obj\Debug\Tanki5.TankiGame.resources
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Tanki5\Tanki5\obj\Debug\Tanki5.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Tanki5\Tanki5\obj\Debug\Tanki5.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Tanki5\Tanki5\obj\Debug\Tanki5.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Tanki5\Tanki5\obj\Debug\Tanki5.Form1.resources
+C:\Users\Тагир\Desktop\Tanki5\Tanki5\bin\Debug\Tanki5.exe.config
+C:\Users\Тагир\Desktop\Tanki5\Tanki5\bin\Debug\Tanki5.exe
+C:\Users\Тагир\Desktop\Tanki5\Tanki5\bin\Debug\Tanki5.pdb
+C:\Users\Тагир\Desktop\Tanki5\Tanki5\obj\Debug\Tanki5.csprojResolveAssemblyReference.cache
+C:\Users\Тагир\Desktop\Tanki5\Tanki5\obj\Debug\Tanki5.Form1.resources
+C:\Users\Тагир\Desktop\Tanki5\Tanki5\obj\Debug\Tanki5.Properties.Resources.resources
+C:\Users\Тагир\Desktop\Tanki5\Tanki5\obj\Debug\Tanki5.TankiGame.resources
+C:\Users\Тагир\Desktop\Tanki5\Tanki5\obj\Debug\Tanki5.csproj.GenerateResource.Cache
+C:\Users\Тагир\Desktop\Tanki5\Tanki5\obj\Debug\Tanki5.csproj.CoreCompileInputs.cache
+C:\Users\Тагир\Desktop\Tanki5\Tanki5\obj\Debug\Tanki5.exe
+C:\Users\Тагир\Desktop\Tanki5\Tanki5\obj\Debug\Tanki5.pdb
+C:\Users\igabdr\Desktop\Tanki5\Tanki5\bin\Debug\Tanki5.exe.config
+C:\Users\igabdr\Desktop\Tanki5\Tanki5\bin\Debug\Tanki5.exe
+C:\Users\igabdr\Desktop\Tanki5\Tanki5\bin\Debug\Tanki5.pdb
+C:\Users\igabdr\Desktop\Tanki5\Tanki5\obj\Debug\Tanki5.Properties.Resources.resources
+C:\Users\igabdr\Desktop\Tanki5\Tanki5\obj\Debug\Tanki5.csproj.GenerateResource.Cache
+C:\Users\igabdr\Desktop\Tanki5\Tanki5\obj\Debug\Tanki5.exe
+C:\Users\igabdr\Desktop\Tanki5\Tanki5\obj\Debug\Tanki5.pdb
+C:\Users\igabdr\Desktop\Tanki5\Tanki5\obj\Debug\Tanki5.MainForm.resources
+C:\Users\igabdr\Desktop\Tanki5\Tanki5\obj\Debug\Tanki5.TankiGame.resources
+C:\Users\igabdr\Desktop\Tanki5\Tanki5\obj\Debug\Tanki5.csprojResolveAssemblyReference.cache
